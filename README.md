@@ -1,2 +1,4 @@
 # McDonaldsWeek21
-Bold - UI Cookies
+McDonaldsWeek21
+Domain Owner / Website Coder: 22songi@smtexas.org
+Theme: Bold - UI Cookies

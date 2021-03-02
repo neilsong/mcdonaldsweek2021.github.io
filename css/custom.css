@@ -76,7 +76,7 @@ iframe {
 }
 
 .subsection-title {
-	margin-bottom: 5;
+	margin-bottom: 5px;
 }
 
 /*footer*/
@@ -148,4 +148,26 @@ iframe {
 
 .main-desc {
 	text-align: left;
+}
+
+.main-subtitle {
+	font-size:;
+}
+
+.photo-desc {
+	text-align: center;
+}
+
+.gallery-img {
+	width: 100%;
+	height: auto;
+	margin-bottom: 28px;
+}
+
+.horiz-img {
+	margin-bottom: 9%;
+}
+
+.horiz-img-large {
+	height: 100%;
 }

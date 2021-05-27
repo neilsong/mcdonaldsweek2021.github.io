@@ -170,4 +170,17 @@ iframe {
 
 .horiz-img-large {
 	height: 100%;
+  padding-bottom: 1%;
+}
+
+.left-big {
+  margin-bottom: -2%;
+}
+
+.decrease_margin {
+  margin-bottom: -1%;
+}
+
+.vert-img {
+  margin-bottom: -1%;
 }

@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "gulp"
+  },
 "devDependencies": {
   "gulp": "latest",
   "gulp-sass": "latest",
